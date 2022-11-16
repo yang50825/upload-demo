@@ -47,7 +47,7 @@
             </el-form-item>
         </el-form>
         <el-image
-            :src="require('D:/upload/2022/11/16/b6fbc188-a7c8-40cb-b7e8-ccd201bf73f2.png')"
+            :src="require('D:/upload/2022/11/16/03cfef85-c92c-4b81-bf3b-0b4034090132.webp')"
             style="width: 100px; height: 100px; display: block; margin-bottom: 20px"
         />
     </div>
